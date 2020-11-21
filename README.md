@@ -1,3 +1,7 @@
-# Inicializar
+# Ejecutar la Calculadora
 
-### Ejecutar la clase "TestCuentas.java" para poder inicializar la aplicación.
+### Ejecutar TestCalculadora.java en el paquete **com.carlos.springboot.app.calculadora**
+
+
+# Inicializar app Productos
+### Ejecutar TestProducto.java en el paquete **com.carlos.springboot.app.producto**
